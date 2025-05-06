@@ -1,0 +1,2 @@
+SELECT, INSERT, UPDATE, DELETE, etc.
+
